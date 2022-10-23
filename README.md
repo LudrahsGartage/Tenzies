@@ -1,4 +1,6 @@
-# co4e64ec4816ac0c0be05602d
+# Tenzies Game with React
+
+Made following along with Scrimba React JS Basics course, and added a few extra features such as roll count and best scores stored in local storage.
 
 Quick start:
 
