@@ -2,20 +2,7 @@
 
 Made following along with Scrimba React JS Basics course, and added a few extra features such as roll count and best scores stored in local storage.
 
-Quick start:
-
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
-
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ yarn watch # npm run watch
-```
+[Click to Play!](https://ludrahsgartage.github.io/Tenzies/)
 
 ## About Scrimba
 
